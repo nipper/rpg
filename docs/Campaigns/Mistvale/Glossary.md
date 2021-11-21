@@ -1,0 +1,2 @@
+## Vestarch
+In the old [Empire](Campaigns/Mistvale/History/Empire.md) a Vestarch was a regional governor just one step below the emperor. While not officially part of the court they enacted the emperor's will across the empire. There are rumors that they still exits
