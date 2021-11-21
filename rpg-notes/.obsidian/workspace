@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "eebcecbd1281f5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "beda96c7575f5d9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Campaigns/Mistvale/History/Empire.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9ab2712fe08d6ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c38854aa876d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f4780ed381ff7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c8f09efbb491347",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9283a7c1fcc2cdcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a47b0067219c89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1469ff8ef7fe871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaigns/Mistvale/History/Empire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "beda96c7575f5d9e",
+  "lastOpenFiles": [
+    "Campaigns/Mistvale/History/Empire.md",
+    "Campaigns/Mistvale/World Overview.md",
+    "Campaigns/Mistvale/Glossary.md"
+  ]
+}
